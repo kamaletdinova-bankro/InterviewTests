@@ -1,8 +1,11 @@
 # InterviewTests
-Для прогона тестов необходима [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
-и браузер Google Chrome 81 версии.
+Р”Р»СЏ РїСЂРѕРіРѕРЅР° С‚РµСЃС‚РѕРІ РЅРµРѕР±С…РѕРґРёРјР° [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+Рё Р±СЂР°СѓР·РµСЂ Google Chrome 81 РІРµСЂСЃРёРё.
 
-Из скаченного репозитория запустить решение IviTests.sln
-Выполнить сборку проекта (Ctrl+Shift+B)
-Открыть обозреватель тестов (Ctrl+E,T)
-Выбрать выполнить все тесты
+1. РР· СЃРєР°С‡РµРЅРЅРѕРіРѕ СЂРµРїРѕР·РёС‚РѕСЂРёСЏ Р·Р°РїСѓСЃС‚РёС‚СЊ СЂРµС€РµРЅРёРµ IviTests.sln
+
+2. Р’С‹РїРѕР»РЅРёС‚СЊ СЃР±РѕСЂРєСѓ РїСЂРѕРµРєС‚Р° (Ctrl+Shift+B)
+
+3. РћС‚РєСЂС‹С‚СЊ РѕР±РѕР·СЂРµРІР°С‚РµР»СЊ С‚РµСЃС‚РѕРІ (Ctrl+E,T)
+
+4. Р’С‹Р±СЂР°С‚СЊ РІС‹РїРѕР»РЅРёС‚СЊ РІСЃРµ С‚РµСЃС‚С‹
